@@ -76,7 +76,7 @@ y_all = np.array(y_all)
 # keeping only topics with at least 30 documents
 
 all_topics = np.array(all_topics)
-mask = y.sum(axis=0) >= 30
+mask = y_all.sum(axis=0) >= 30
 
 selected_topics = list(all_topics[mask])
 y = y_all[:, mask]
