@@ -1,6 +1,6 @@
 # Growing Instability: Classifying Crisis Reports
 
-This is a top 10 solution to the ["Growing Instability: Classifying Crisis Reports"](https://www.datasciencechallenge.org/challenges/2/growing-instability/) challenge from datasciencechallenge.org
+This is a top 10 solution to the ["Growing Instability: Classifying Crisis Reports"](https://www.datasciencechallenge.org/challenges/2/growing-instability) challenge from datasciencechallenge.org
 
 The solution outline:
 
